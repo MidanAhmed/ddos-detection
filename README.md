@@ -3,7 +3,7 @@
 
 ## Description
 
-A Distributed Denail-of-Service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.
+A Distributed Denial-of-Service (DDoS) attack is a malicious attempt to disrupt the normal traffic of a targeted server, service or network by overwhelming the target or its surrounding infrastructure with a flood of Internet traffic.
 
 There are different ways to prevent these attacks, but none of them can be cent-percent accurate, our motive is to design a firewall for avoiding DDoS attacks. For that, accurate detection of the attack is essential.
 
