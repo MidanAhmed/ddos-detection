@@ -25,6 +25,7 @@ Run the `generateCSV.ipynb` file to split `dataset.csv` to different sections an
 * `data10000.csv`
 * `data12000.csv`
 * `data14000.csv`
+
 These files are used for testing purposes.
 
 Once the sectioned datasets have been generated, run `main.ipynb` to train the model on the dataset, namely `dataset.csv`.
