@@ -12,7 +12,7 @@ In this proposed system, we are using multiple machine learning-based algorithms
 
 Clone the project
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/MidanAhmed/ddos-detection.git
 ```
 
 Open the project directory in Jupyter Notebook, the following files must be present:
@@ -44,9 +44,9 @@ Start the Graphical User Interface (GUI) by running `gui.ipynb` and selecting th
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image.png))
 
-![App Screenshot 1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot 1]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image1.png))
 
 
 ## Tech Stack Used
