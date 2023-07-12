@@ -44,9 +44,9 @@ Start the Graphical User Interface (GUI) by running `gui.ipynb` and selecting th
 
 ## Screenshots
 
-![App Screenshot]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image.png))
+![App Screenshot](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image.png)
 
-![App Screenshot 1]([https://via.placeholder.com/468x300?text=App+Screenshot+Here](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image1.png))
+![App Screenshot 1](https://github.com/MidanAhmed/ddos-detection/blob/da6ad4012bcd11e0cbad0c848b98e0046a98b721/image1.png)
 
 
 ## Tech Stack Used
