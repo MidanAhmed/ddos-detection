@@ -62,4 +62,4 @@ Major python libraries involved in faster implementation are listed below:
 
 ## Acknowledgement
 
-I would like to take this opportunity to express my gratitude to all of my group members **Kishor Kumar Hazarika**, **Ruhul Amin Talukdar** and **Zakaria Ahmed Laskar**. The project would not have been successful without their cooperation and inputs.
+I would like to take this opportunity to express my gratitude to my project guide **Mr. Jainul Abudin** and all of my group members **Kishor Kumar Hazarika**, **Ruhul Amin Talukdar** and **Zakaria Ahmed Laskar**. This project would not have been successful without their cooperation and inputs.
